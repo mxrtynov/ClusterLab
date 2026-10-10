@@ -95,7 +95,7 @@ graph TD
 
 1. Склонируйте репозиторий с проектом:
    ```bash
-   git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
+   git clone 
    cd cluster-lab
    ```
 
