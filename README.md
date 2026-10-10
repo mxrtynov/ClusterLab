@@ -33,7 +33,7 @@ graph TD
     KM --> UI
     MX --> UI
 
-    UI --> Main[main.py<br>Точка запуска]
+    UI --> Main[main.py<br>Точка входа]
 
     style Data fill:#fff2cc,stroke:#d6b656,stroke-width:2px
     style KM fill:#d5e8d4,stroke:#82b366,stroke-width:2px
